@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BosonofW
-- 📖 I’m majoring in physics.
+- 📖 I’m majoring in high energy physics, and my main jobs focus on the experiments.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning to use Linux.
+- 🌱 I’m currently learning how to analyse the data, how to slove problems with computational method, and how to use the computer to simulate physical processes.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
